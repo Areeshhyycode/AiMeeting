@@ -1,0 +1,57 @@
+# dependencies
+
+node_modules
+
+.pnp
+
+.pnp.js
+
+
+
+# next.js
+
+.next/
+
+out/
+
+build/
+
+dist/
+
+
+
+# env files (NEVER commit secrets!)
+
+.env*.local
+
+
+
+# debug
+
+npm-debug.log*
+
+yarn-debug.log*
+
+yarn-error.log*
+
+
+
+# misc
+
+.DS_Store
+
+*.pem
+
+.vscode/
+
+.idea/
+
+
+
+# typescript
+
+*.tsbuildinfo
+
+next-env.d.ts
+
+config.bat
